@@ -1,4 +1,4 @@
-package com.mobilesiri.jsonparsing;
+package com.android.json;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

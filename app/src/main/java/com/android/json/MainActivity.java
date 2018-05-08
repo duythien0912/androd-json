@@ -1,4 +1,4 @@
-package com.mobilesiri.jsonparsing;
+package com.android.json;
 
 import android.app.ListActivity;
 import android.app.ProgressDialog;
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.ListAdapter;
 import android.widget.SimpleAdapter;
+
+import com.mobilesiri.json.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;
